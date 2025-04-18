@@ -104,5 +104,5 @@ Additional datasets
 Enhanced visualization tools
 
 📧 Contact
-For questions or collaborations, contact ![Mrunal Sunil Fulzele](https://mrunalfulzele.online/).
+For questions or collaborations, contact [Mrunal Sunil Fulzele](https://mrunalfulzele.online/).
 
