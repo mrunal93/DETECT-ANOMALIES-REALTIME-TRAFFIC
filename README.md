@@ -3,7 +3,7 @@
 # Traffic Anomaly Detection with LSTM & Conformal Prediction 🚦📊
 
 ![Julia](https://img.shields.io/badge/Julia-1.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 A Julia-based machine learning project to detect unusual traffic patterns using **LSTM networks** and **Conformal Prediction**. Built for reliability and interpretability in time-series anomaly detection.
 
@@ -104,5 +104,5 @@ Additional datasets
 Enhanced visualization tools
 
 📧 Contact
-For questions or collaborations, contact Mrunal Sunil Fulzel.
+For questions or collaborations, contact ![Mrunal Sunil Fulzele](https://mrunalfulzele.online/).
 
